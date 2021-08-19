@@ -3,9 +3,16 @@
 ##Initializing NPM
 ```npm init```
 
-## Adding Playwright - https://playwright.dev/
-
+## Setting up Playwright - https://playwright.dev/
+Install playwright as development dependency
 ``npm i -D @playwright/test``
+
+Installing playwright ``npx playwright install``
+
+AutoGenerating Code ``npx playwright codegen``
+
+
+
 
 
 
