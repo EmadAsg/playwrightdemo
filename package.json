@@ -16,5 +16,7 @@
     "url": "https://github.com/EmadAsg/playwrightdemo/issues"
   },
   "homepage": "https://github.com/EmadAsg/playwrightdemo#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "@playwright/test": "^1.14.0"
+  }
 }
