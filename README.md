@@ -11,8 +11,8 @@ Installing playwright ``npx playwright install``
 
 AutoGenerating Code ``npx playwright codegen``
 
+Automated Test ``npx playwright test``
 
+Automated Test With browser ``npx playwright test --headed``
 
-
-
-
+Automated Test With All browser ``npx playwright test --browser=all``
